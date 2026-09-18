@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189126352511",
+    "project_id": "basharshop-22845",
+    "storage_bucket": "basharshop-22845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189126352511:android:63f6fb75dd40486c84694a",
+        "android_client_info": {
+          "package_name": "com.bashar.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR4BOHLAETmkJ2BAXxDUtTR3nrr7EIprQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
